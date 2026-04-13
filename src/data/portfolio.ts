@@ -1,7 +1,7 @@
 export const PROFILE = {
   name: "Omm Dutta",
   title: "ML/AI & Full Stack Engineer",
-  tagline: "Building intelligent systems that actually ship.",
+  tagline: "Turning ideas into production-ready software and intelligent systems.",
   bio: "I'm an ML/AI and Full Stack engineer focused on production-ready AI products — from fraud detection ensembles to agentic research tools and multimodal emotion systems. I bridge the gap between model training and deployed, cloud-hosted applications.",
   location: "Bhubaneswar, Odisha, India",
   availability: "Open to work",

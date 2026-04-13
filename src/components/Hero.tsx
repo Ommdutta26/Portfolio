@@ -21,7 +21,7 @@ export default function Hero() {
         </h2>
 
         <p style={{ fontSize: 16, color: "#718096", lineHeight: 1.8, maxWidth: 520, marginBottom: 36, fontWeight: 400 }}>
-          {PROFILE.tagline} I build end-to-end AI products — deployed, cloud-hosted, and production-ready. From fraud detection ensembles to agentic LLM workflows.
+          {PROFILE.tagline} Building end-to-end AI systems — deployed, cloud-hosted, and production-ready — from intelligent automation to agentic LLM workflows.
         </p>
 
         <div style={{ display: "flex", gap: 14, flexWrap: "wrap", alignItems: "center" }}>

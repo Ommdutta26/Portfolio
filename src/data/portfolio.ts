@@ -9,7 +9,7 @@ export const PROFILE = {
   github: "Ommdutta26",
   email: "ommdutta26@gmail.com",
   phone: "+8658767901",
-  linkedin: "linkedin.com/in/ommdutta",
+  linkedin: "linkedin.com/in/omm-dutta-0170922a4",
 };
 
 export const PROJECTS = [

@@ -28,7 +28,7 @@ export const PROJECTS = [
     github: "https://github.com/Ommdutta26/InterviewFlow-AI",
   },
   {
-    id: 2,
+    id: 5,
     featured: false,
     status: "live",
     statusLabel: "LIVE ON RENDER",
@@ -68,6 +68,27 @@ export const PROJECTS = [
     tagColors: { TensorFlow: "orange", "Deep Learning": "green", "Grad-CAM": "amber", Streamlit: "blue", OpenCV: "teal", Python: "blue" },
     accent: "#90cdf4",
     github: "https://github.com/Ommdutta26/Pneumonia-Detection",
+  },
+  {
+    id: 2,
+    featured: true,
+    status: "completed",
+    statusLabel: "COMPLETED",
+    type: "AI Security · Fraud Detection",
+    title: "Fraud Detection Agent",
+    subtitle: "Multi-Agent Financial Risk System",
+    desc: "AI-powered fraud detection system designed to identify suspicious financial transactions in real time using machine learning and multi-agent workflows. Built with FastAPI, LangGraph, and MongoDB, featuring anomaly detection, risk scoring, explainable AI insights, and automated workflow orchestration with n8n.",
+    tags: ["FastAPI", "LangGraph", "MongoDB", "n8n", "Machine Learning", "Python"],
+    tagColors: {
+      FastAPI: "green",
+      LangGraph: "purple",
+      MongoDB: "emerald",
+      n8n: "orange",
+      "Machine Learning": "blue",
+      Python: "yellow"
+    },
+    accent: "#68d391",
+    github: "https://github.com/Ommdutta26/Financial-Fraud-Detection-Agent-",
   },
 ];
 

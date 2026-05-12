@@ -78,7 +78,7 @@ export const PROJECTS = [
     title: "Fraud Detection Agent",
     subtitle: "Multi-Agent Financial Risk System",
     desc: "AI-powered fraud detection system designed to identify suspicious financial transactions in real time using machine learning and multi-agent workflows. Built with FastAPI, LangGraph, and MongoDB, featuring anomaly detection, risk scoring, explainable AI insights, and automated workflow orchestration with n8n.",
-    tags: ["FastAPI", "LangGraph", "MongoDB", "n8n", "Machine Learning", "Python"],
+    tags: ["FastAPI", "LangGraph", "MongoDB", "n8n", "Machine Learning", "Python", "LangSmith"],
     tagColors: {
       FastAPI: "green",
       LangGraph: "purple",
